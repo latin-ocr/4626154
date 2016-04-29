@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4626154_0008.png"; bbox 0 0 2335 3696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 955 1228 1307 1281">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 955 1228 1307 1281">
+     <span class='ocr_line' id='line_1_1' title="bbox 955 1228 1307 1281; baseline -0.017 0"><span class='ocrx_word' id='word_1_1' title='bbox 955 1228 1307 1281; x_wconf 85' lang='lat' dir='ltr'><strong>MEMORIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 667 1429 1607 1516">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 667 1429 1607 1516">
+     <span class='ocr_line' id='line_1_2' title="bbox 667 1429 1607 1516; baseline -0.014 0"><span class='ocrx_word' id='word_1_2' title='bbox 667 1436 1211 1516; x_wconf 78' lang='lat' dir='ltr'>FRIDERIGI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1274 1429 1607 1507; x_wconf 74' lang='lat' dir='ltr'>BLASS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1103 1638 1180 1680">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1103 1638 1180 1680">
+     <span class='ocr_line' id='line_1_3' title="bbox 1103 1638 1180 1680; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1103 1638 1180 1680; x_wconf 87' lang='lat' dir='ltr'><strong>ET</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 446 1808 1847 1899">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 446 1808 1847 1899">
+     <span class='ocr_line' id='line_1_4' title="bbox 446 1808 1847 1899; baseline -0.014 0"><span class='ocrx_word' id='word_1_5' title='bbox 446 1819 965 1899; x_wconf 73' lang='lat' dir='ltr'>GUILELMI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1031 1808 1847 1890; x_wconf 75' lang='lat' dir='ltr'>DITTENBERGER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1017 2051 1280 2101">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1017 2051 1280 2101">
+     <span class='ocr_line' id='line_1_5' title="bbox 1017 2051 1280 2101; baseline -0.011 0"><span class='ocrx_word' id='word_1_7' title='bbox 1017 2051 1280 2101; x_wconf 79' lang='lat' dir='ltr'>SACRUM</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
